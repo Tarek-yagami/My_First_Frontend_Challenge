@@ -1,0 +1,93 @@
+#title{
+    font-weight: 900 ;
+    font-size: 28px;
+    color: hsl(223, 47%, 23%);
+    font-family: Red Hat Display;
+
+}
+body{
+    background-image: url(./challenge/pattern-background-desktop.svg);
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: hsl(225, 100%, 98%);
+    align-items: center;
+    
+font-family: Red Hat Display;
+}
+
+.obj{
+    
+    background-color: #ffffff;
+    width:50%;
+    text-align: center;
+    border-radius: 20px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    margin: 3% 38%;
+    overflow: hidden;
+}
+.obj img{
+    width: 100%;
+}
+
+#song{
+    
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+*{
+    font-family: Red Hat Display;
+    font-size: 16px;
+    color: hsl(224, 23%, 55%); 
+    
+}
+.poop{
+    margin: 5% 10% 0 10%;
+    display: flex;
+    flex-direction: row;
+    background-color: #f8f9ff;
+    border-radius: 10px;
+}
+.poop p{
+    font-weight:900;
+    color: hsl(224, 23%, 55%);
+    
+   
+}
+#icon{
+   background-color: aliceblue;
+    border-radius: 100%;
+    width: 15%;
+    height: auto;
+    margin: 6%;
+}
+
+.attribution {
+            font-size: 11px;
+            text-align: center;
+    }
+
+.attribution a {
+            color: hsl(228, 45%, 44%);
+    }
+#change{
+    margin: 10%;
+    font-weight: 700;
+    float: right;
+}
+.poop button{
+   
+    background-color: hsl(245, 75%, 52%);
+    color: #ffffff;
+    border: none;
+    text-align: center;
+    padding: 3% 23%;
+    border-radius: 10px;
+    font-weight: 700;
+    
+}
